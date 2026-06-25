@@ -1,8 +1,8 @@
-## Amazon_Sales_Data_Analysis
+### Amazon_Sales_Data_Analysis
 In this Sales Data Analysis Project, I tried to get insights from Amazon Sales Data in differnect countries and different Products.
-## Overview
+### Overview
 I have Tried to get insights from this Data set. I have created Graphs, Kpis, Dashboard to show the trends and values of the data. I have tried to turning data into valuable insights so that Business can use it.
-## Dataset
+### Dataset
 The dataset contains sales transaction records, including:
 
 - Product Information
@@ -22,74 +22,68 @@ The dataset contains sales transaction records, including:
 
 ### Dashboard Features
 
-- Category_Wise Sales,Profit,Profit_Margin(%)
-- Profit_Margin(%) by Sub_Category
-- Segment_Wise Sales,Profit,Profit_Margin(%)
-- Ship_Mode_Wise Sales,Profit,Profit_Margin(%)
-- Order_Volume by Ship_Mode
-- Sales_Wise Top 10 Country
-- Profit_Wise Top 10 Country
-- Profit_Wise Top 5 States
-- Profit_Wise Bottom 5 States
-- Year_Wise Sales,Profit,Profit_Margin(%)
-- Month_Wise Sales
-- Month_Wise Profit
-- Profit_Wise Top 5 Products
-- Profit_Wise Bottom 5 States
-- Top 10 Customers
-- Product Quantity Sold by Discount
-- Sales vs Profit_Margin by Discount
-- Average Days to Ship by Ship_Mode
-- Count of Orders by Days to Ship
-- Average Days to Ship by Priority
-- Total Orders by Day of the Week
-- KPIs
+- Revenue by Category
+- Yearly Revenue Trend
+- Payment Method Breakdown
+- Top 5 Brands by Revenue
+- Top 5 Product
+- Bottom 5 Product
+- Top 5 City
+- Order_Status Breakdown
+- Revenue by Country
+- Monthly Revenue Trend
+### KPIs
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Total Quantity
+- Average Discount(%)
+- Average Shipping Cost
+- Total Tax
+- Average Order Value (A0V)
+
+### Slicers
+
+- Category
+- Country
 
 
 
-## Tools Used
+### Tools Used
 
 - Excel
 - Power BI
+- DAX
+- Power Query
 
 
 
-## Key Insights
+### Key Insights
 
-- Technology has the most sales of 4.7 Millions.Profit_Margin of Technology and Office Supplies are almost the Same Furniture has the least Profit margin of 6.98%. Paper is the most Profitable.Along with Labels,Envelopes, Accessories.Tables has the worst Profit Margin of -8.47%. So, table is the reason behind Furnitures low Profit_Margin.
+- Revenue is Highly Concentrated in U.S.A. Approximately 70% of total Sales all other countries are making 30%.So, the company is heavily dependent on a single market.
+- Revenue is relatively balanced across categories. Electronics leads but only slightly.
+- About 75% of orders are successfully delivered. Around 6% of orders are either returned or cancelled.
+- Customers strongly prefer digital payments. Cash on Delivery contributes the least revenue.
+- Customers strongly prefer digital payments. Cash on Delivery contributes the least revenue.
+- Revenue remains around $18M per year. No strong growth trend is visible.
 
-- Home Office has the Highest Profit Margin. Consumer is the most saling segment More than twice.
 
-- Standard class has the Highest Number of Orders. Same Day has the Lowest Number of Orders. standard class is 59.6% and Same day is 5.3% only.Standatd Class has the Highest Sales and Profit Margin.
+### Business Problems Identified
+- Overdependence on the US Market could be problematic in the long run.Economic or competitive changes in the US could significantly affect business performance.
+- The Data is showing Weak International Presence Canada, UK, Australia, and India collectively contribute much less revenue than the US.
+- More than 6,000 orders were either returned or cancelled. This can increase logistics costs and reduce customer satisfaction.
 
-- United Staes, Australia, France is the top 3 most Sale Country. But United States, China, India is the Top 3 Profitable Country.
 
-- England, California, New York is the most Profitable States. Whereas Istanbul, Lagos, Texas is the Worst Performer.
+### Recommendations
+-  Expand High-Potential International Markets.Focus marketing and seller acquisition efforts in India, Canada, United Kingdom, Australia.
+-  Reduce Returns and Cancellations.
+-  Since Credit Card, Debit Card, and UPI dominat. We can offer cashback rewards, create payment-specific promotions.
 
-- Year wise Sales and Profit is rising. November, December has the best sales. And November, December, September has the most Profit.
-
-- Theere is Pofit wise Top 5 and worst 5 product. We should not sell worst products because they are destroying profits.
-
-- No Discount Products has the best sales, After that 11-20% discount has the most sales. If we want to increase Profit then We should not Discount more than 20%.
-
-- Total Sales is $  12.64 Millions, Total Profit $1.47 Millions, Average Order Value is $505, Shipping Delay is 3.97 Days, Average Units Per Order is 7.12, Profit Margin is 11.62%, Total Order Volume is 51290.
 
 ## Dashboard Preview
 
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Average%20Days%20to%20shipping.png
--https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Category%20wise%20Sales%2CProfit%2C%20Profit_%20Margin.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/KPIs.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Month%20wise%20Sales%2C%20Profit.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Month%20wise%20Sales%2C%20Profit.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Profit%20wise%20Top%20and%20Bottom%205%20States.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Profit_Margin%20by%20Sub_Category.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Qunatity%20Sold%20by%20Discount.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Sales%2CProfit%20wise%20Top%2010%20Country.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Segment%20wise%20Sales%2CProfit%2C%20Proft_Margin.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Ship%20Mode%20Wise%20Distribution.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Slaes%20Vs%20Profit%20by%20Discount%20.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Top%2010%20Customers.png
-- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Year%20wise%20Sales%2CProfit%2CProfit_Margin(%25).png
+
 
 
 
