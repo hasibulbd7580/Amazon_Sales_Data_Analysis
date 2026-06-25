@@ -82,18 +82,13 @@ The dataset contains sales transaction records, including:
 
 
 ## Dashboard Preview
-
-
-
+https://github.com/hasibulbd7580/Amazon_Sales_Data_Analysis/blob/main/Dashboard_Scrrenshot.png
 
 
 ## Dataset Source
 
-  - <a href= "https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Superstore_Orders.csv"> Data set</a>
+  - <a href= "https://github.com/hasibulbd7580/Amazon_Sales_Data_Analysis/blob/main/Amazon.csv"> Data set</a>
 
-## Conclusion
-
-This project analyzes sales data to identify key trends in countries, products,yearly performance,Monthly Profit, Discount wise Profit Margin, Top Profitable Countires, Top Profitable States, Top and Worst Profitable Products. The dashboard helps visualize business performance and supports data-driven decision-making.
 
 ## Author
 
